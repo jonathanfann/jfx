@@ -1,0 +1,3 @@
+*.wav
+!short-demo-song.wav
+!crash.wav
